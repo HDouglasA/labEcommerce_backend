@@ -12,17 +12,17 @@
 
 ### Endpoints: 
 
-:white_check_mark: [GET Get all users](#getAllUsers)
+:white_check_mark: [GET Get all users](#-get-get-all-users)
 <br/>
-:white_check_mark: [GET Get all products](#getAllProducts)
+:white_check_mark: [GET Get all products](#-get-get-all-products)
 <br/>
-:white_check_mark: [GET Get user purchases](#getUserPurchases)
+:white_check_mark: [GET Get user purchases](#-get-get-user-purchases)
 <br/>
-:white_check_mark: [POST Register user](#registerUser)
+:white_check_mark: [POST Register user](#-post-register-user)
 <br/>
-:white_check_mark: [POST Register product](#registerProduct)
+:white_check_mark: [POST Register product](#-post-register-product)
 <br/>
-:white_check_mark: [POST Register purchase](#registerPurchase)
+:white_check_mark: [POST Register purchase](#-post-register-purchaset)
 
 #
 
